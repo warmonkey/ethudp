@@ -58,7 +58,7 @@
 
 // ip & brctl command
 #define IPCMD 		"/sbin/ip"
-#define BRIDGECMD	"/usr/sbin/brctl"
+#define BRIDGECMD	"/sbin/brctl"
 
 #define XOR 	1
 
